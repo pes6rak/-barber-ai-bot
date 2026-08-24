@@ -1,1 +1,4 @@
-# -barber-ai-bot
+python-telegram-bot
+openai
+flask
+gunicorn
